@@ -1,0 +1,17 @@
+.border {
+	border: 3px solid;
+	border-color: goldenrod;
+}
+
+a{
+	color: mediumseagreen;
+}
+
+body{
+	background-color: midnightblue;
+}
+
+h1 {
+	color: mintcream;
+	text-decoration: underline;
+}
