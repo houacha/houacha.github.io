@@ -1,0 +1,28 @@
+section {
+  background: palegreen;
+}
+
+h2 {
+  margin-top: 10px;
+}
+
+@media (max-width: 768px) {
+  #food-list {
+    background: lightgoldenrodyellow;
+  }
+}
+
+hr {
+  display: block;
+  margin: 0 auto;
+  border: 1px solid lightgray;
+  width: 95%;
+}
+
+.my-nav {
+  background: lightgreen;
+}
+
+.navbar-toggle {
+  border: 1px solid black !important;
+}
